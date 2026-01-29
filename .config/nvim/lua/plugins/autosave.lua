@@ -12,7 +12,7 @@ return {
       "InsertLeave",
       "TextChanged",
     },
-    debounce_delay = 250,
+    debounce_delay = 500,
     write_all_buffers = false,
   },
 }

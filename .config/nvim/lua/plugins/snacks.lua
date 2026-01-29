@@ -11,11 +11,11 @@ return {
         },
         hidden = true,
 
-        ignored = false,
+        ignored = true,
       },
       explorer = {
         hidden = true,
-        ignored = false,
+        ignored = true,
       },
     },
   },
